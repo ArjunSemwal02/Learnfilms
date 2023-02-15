@@ -1,3 +1,3 @@
 # LearnFilms
 
-A video streaming platform where a student filmmakers can upload their independent films.
+A video streaming platform where student filmmakers can upload their independent films.
